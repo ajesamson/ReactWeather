@@ -11,7 +11,7 @@ require('style!css!foundation-sites/dist/css/foundation.css');
 $(document).foundation();
 
 // App css
-require('style!css!scss!applicationStyles');
+require('style!css!sass!applicationStyles');
 
 
 ReactDOM.render(
